@@ -2,15 +2,33 @@
 
 ## About me
 
-I **love** going to concerts, spending time with family, and *eating good food*.
+I'm a teacher, and a software engineer. I've been programming professionally for about five years.
 
-My favorite movies are:
+I also enjoy:
+- Writing poetry, fiction, and songs
+- Producing and remixing music
+- Eating Good Food
+- Traveling
+- Attending concerts and festivals
+- Reading Manga
+- Science Fiction, especially when it features cyberpunk and solarpunk content
+- Wordplay, puns, corny jokes
+
+Some of my favorite movies are:
 1. Princess Mononoke
-2. Lord of the Rings
+    ![Movie Poster for the film Princess Mononoke by Hayao Miyazaki](https://academymuseumstore.org/cdn/shop/files/mononoke.jpg?v=1748983204)
 
-I can:
-- write markdown
-- whistle
+2. The Lord of the Rings: The Two Towers       
+    (*specifically* because of the music that plays at the battle for Helm's Deep)
 
-[Here](https://youtu.be/oucTu-2SmZs?si=vmJKXE33s9Ok90-s) is a song recommendation
+3. Devil in a Blue Dress (1995)
 
+4. The Tragedy of MacBeth (2021)
+
+5. The Fantastic Mr. Fox (2009)
+
+6. GATTACA (1997)
+
+[My Spotify](https://open.spotify.com/artist/2uLTlLeaLY9eeotC7S4ggl?si=C80iAh1tS2mnCwB5goVT2Q)
+
+[My Soundcloud](https://on.soundcloud.com/uLh2ir090mxitCfvVl) 
