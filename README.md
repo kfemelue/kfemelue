@@ -16,7 +16,7 @@ I also enjoy:
 
 Some of my favorite movies are:
 1. Princess Mononoke
-    <img alt="Movie Poster for the film Princess Mononoke by Hayao Miyazaki" src="https://academymuseumstore.org/cdn/shop/files/mononoke.jpg?v=1748983204" width="50vw" height="50vw">
+    <img alt="Movie Poster for the film Princess Mononoke by Hayao Miyazaki" src="https://academymuseumstore.org/cdn/shop/files/mononoke.jpg?v=1748983204" width="150vw" height="200vw">
     
 
 2. The Lord of the Rings: The Two Towers       
