@@ -6,7 +6,6 @@
 
 I'm a teacher, and a software engineer. I've been programming professionally for about five years.
 
-
 I also enjoy:
 - Writing poetry, fiction, and songs
 - Producing and remixing music
