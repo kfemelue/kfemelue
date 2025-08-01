@@ -2,16 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Teacher;Software+Engineer;Writer;Producer)](https://git.io/typing-svg)
 
-### Skills and Languages
+
+### Welcome
+
+I'm a teacher, and a software engineer. I was inspired to become a programmer because of the interests in gaming and science fiction I had growing up, and I've been programming professionally for about five years. 
+
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,postgres,express,docker,aws,react,bootstrap,sklearn)](https://skillicons.dev)
 
 ### Projects
 
-### About me
-Welcome!
 
-I'm a teacher, and a software engineer. I was inspired to become a programmer because of the interests in gaming and science fiction I had growing up, and I've been programming professionally for about five years. 
+### About Me
 
 I also enjoy:
 - Writing
