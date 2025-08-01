@@ -1,6 +1,6 @@
 # Kodiliose Franklyn Emelue
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=03A062&width=435&lines=Teacher;Software+Engineer;Writer;Producer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=03A062&background=000000&width=435&lines=Teacher;Software+Engineer;Writer;Producer)](https://git.io/typing-svg)
 
 
 ### Welcome
@@ -12,6 +12,7 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,postgres,express,docker,aws,react,bootstrap,sklearn)](https://skillicons.dev)
 
 ### Projects
+
 
 
 ### About Me
