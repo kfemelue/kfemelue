@@ -12,6 +12,8 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 
 ### About Me
 
+[My Website](kfemelue.github.io/about-me/)
+
 I also enjoy writing, producing and remixing music, eating good food, traveling, gaming (MOBAs and Action RPGs), attending concerts and festivals, reading Manga, and telling corny jokes
 
 [Spotify](https://open.spotify.com/artist/2uLTlLeaLY9eeotC7S4ggl?si=C80iAh1tS2mnCwB5goVT2Q)
