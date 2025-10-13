@@ -8,13 +8,16 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,postgres,express,docker,aws,react,bootstrap,sklearn)](https://skillicons.dev)
 
-### Projects
 
 ### About Me
 
 [kfemelue.github.io/about-me/](https://kfemelue.github.io/about-me/)
 
-I also enjoy writing, producing and remixing music, eating good food, travelling, gaming (MOBAs and Action RPGs), attending concerts and festivals, reading Manga, and telling corny jokes
+I also enjoy writing, producing and remixing music, eating good food, travel, gaming (MOBAs and Action RPGs), attending concerts and festivals, reading Manga, and telling corny jokes
 
-[Spotify](https://open.spotify.com/artist/2uLTlLeaLY9eeotC7S4ggl?si=C80iAh1tS2mnCwB5goVT2Q)
-[Soundcloud](https://on.soundcloud.com/uLh2ir090mxitCfvVl)
+
+### Ongoing Projects
+
+[Sona](https://github.com/kfemelue/sona-react)
+
+[Using a Neural Network to classify Cancer Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
