@@ -1,6 +1,6 @@
 # Kodiliose Franklyn Emelue
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=03A062&width=435&lines=Teacher;Software+Engineer;Writer;Producer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=03A062&width=435&lines=Software+Engineer;Teacher;Writer;Producer)](https://git.io/typing-svg)
 
 ### Welcome
 
@@ -20,4 +20,4 @@ I also enjoy writing, producing and remixing music, eating good food, travel, ga
 
 [Sona](https://github.com/kfemelue/sona-react)
 
-[Using a Neural Network to classify Cancer Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
+[Using a Neural Network to Classify Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
