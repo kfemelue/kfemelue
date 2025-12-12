@@ -13,9 +13,6 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 
 [kfemelue.github.io/about-me/](https://kfemelue.github.io/about-me/)
 
-I also enjoy writing, producing and remixing music, eating good food, travel, gaming (MOBAs and Action RPGs), attending concerts and festivals, reading Manga, and telling corny jokes
-
-
 ### Ongoing Projects
 
 [Sona](https://github.com/kfemelue/sona-react)
