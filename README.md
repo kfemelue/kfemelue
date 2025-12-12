@@ -21,3 +21,5 @@ I also enjoy writing, producing and remixing music, eating good food, travel, ga
 [Sona](https://github.com/kfemelue/sona-react)
 
 [Using a Neural Network to Classify Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
+
+[Using py-feat to analyze emotions from still images]()
