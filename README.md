@@ -22,4 +22,4 @@ I also enjoy writing, producing and remixing music, eating good food, travel, ga
 
 [Using a Neural Network to Classify Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
 
-[Using py-feat to analyze emotions from still images]()
+[Using py-feat to analyze emotions from still images](https://github.com/kfemelue/Emotion-Detection-with-Computer-Vision)
