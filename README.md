@@ -4,7 +4,7 @@
 
 ### Welcome
 
-I'm a teacher, and a software engineer. I was inspired to become a programmer because of the interests in gaming and science fiction I had growing up, and I've been programming professionally for about five years.
+I'm a teacher, and a software engineer. I was inspired to become a programmer because of the interests in gaming and science fiction I had growing up, and I've been programming professionally for about 6 years.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongodb,postgres,express,docker,aws,react,bootstrap,sklearn)](https://skillicons.dev)
 
