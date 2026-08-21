@@ -14,8 +14,14 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 [kfemelue.github.io/about-me/](https://kfemelue.github.io/about-me/)
 
 ### Ongoing Projects
+---
+
+##### Full Stack
 
 [Sona](https://github.com/kfemelue/sona-react)
+
+
+##### AI/ML
 
 [Using a Neural Network to Classify Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
 
