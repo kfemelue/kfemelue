@@ -1,6 +1,6 @@
 # Kodiliose Franklyn Emelue
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=03A062&width=435&lines=Software+Engineer;Teacher;Writer;Producer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=03A062&width=435&lines=Software+Engineer;Teacher)](https://git.io/typing-svg)
 
 ### Welcome
 
@@ -20,3 +20,5 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 [Using a Neural Network to Classify Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
 
 [Using py-feat to analyze emotions from still images](https://github.com/kfemelue/Emotion-Detection-with-Computer-Vision)
+
+[Clyde: The Unhelpful AI Chat Assistant](https://github.com/kfemelue/clyde)
