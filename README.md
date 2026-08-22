@@ -27,4 +27,4 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 
 [Using py-feat to analyze emotions from still images](https://github.com/kfemelue/Emotion-Detection-with-Computer-Vision)
 
-[Clyde: The Unhelpful AI Chat Assistant](https://github.com/kfemelue/clyde)
+
