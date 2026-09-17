@@ -18,13 +18,14 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 
 ##### Full Stack
 
+[CVE Cyber Security Platform](https://github.com/kfemelue/cve-security-platform)
+
 [Sona](https://github.com/kfemelue/sona-react)
+
 
 
 ##### AI/ML
 
+[Using py-feat computer vision to analyze emotions from still images](https://github.com/kfemelue/Emotion-Detection-with-Computer-Vision)
+
 [Using a Neural Network to Classify Cells](https://github.com/kfemelue/breast_cancer_diagnosis)
-
-[Using py-feat to analyze emotions from still images](https://github.com/kfemelue/Emotion-Detection-with-Computer-Vision)
-
-
