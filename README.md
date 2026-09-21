@@ -18,7 +18,10 @@ I'm a teacher, and a software engineer. I was inspired to become a programmer be
 
 ##### Full Stack
 
-[CVE Cyber Security Platform](https://github.com/kfemelue/cve-security-platform)
+CVE Cyber Security Platform
+- [CVE Cyber Security Platform](https://github.com/kfemelue/cve-security-platform)
+- [CVE Cyber UI](https://github.com/kfemelue/cve_scanner_ui)
+
 
 [Sona](https://github.com/kfemelue/sona-react)
 
